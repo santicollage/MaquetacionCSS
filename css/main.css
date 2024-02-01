@@ -175,3 +175,47 @@ footer p {
   color: white;
   margin-top: 10px;
 }
+
+/* Seccion del blog */
+
+.blogpost-img-container {
+  padding: 0 50px 40px;
+}
+.blogpost-img-container img {
+  width: 100%;
+}
+.blogpost-main-container {
+  padding: 0 50px 40px;
+}
+.blogpost-main-container h3 {
+  border-bottom: 1px solid #cdd2da;
+  padding-bottom: 20px;
+}
+.blogpost-main-container article h1 {
+  font-size: 35px;
+}
+
+.contact-main-container {
+  background-color: #e5e5e5;
+  min-height: 250px;
+  width: 100%;
+  text-align: center;
+  padding-bottom: 50px;
+  margin: 0 auto;
+}
+.contact-main-container div {
+  display: inline-block;
+  width: 49.5%;
+  height: 100%;
+}
+.contact-main-container div a {
+  border-bottom: 1px solid black;
+  padding-bottom: 4px;
+}
+.contact-main-container .contact-container {
+  margin-top: 85px;
+  text-align: initial;
+}
+.contact-main-container img {
+  width: 100px;
+}
